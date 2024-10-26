@@ -3,6 +3,19 @@ export default function Resume() {
     <div>
       <h1>Resume</h1>
       {/* insert ul lists with a mock up of my resume */}
+      <p>Front End Skills</p>
+      <ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>Javascript</li>
+        <li>Node.js</li>
+        <li>Typescript</li>
+        <li>React</li>
+      </ul>
+      <p>Back End Skills</p>
+      <ul>
+        <li>SQL</li>
+      </ul>
     </div>
   );
 }
