@@ -4,21 +4,12 @@ const Footer = () => {
       <p>&copy; {new Date().getFullYear()} My Portfolio</p>
       <p>
         <a
-          href="https://github.com/yourusername"
+          href="https://github.com/lattecoding"
           target="_blank"
           rel="noopener noreferrer"
         >
           GitHub
         </a>{" "}
-        |
-        <a
-          href="https://www.linkedin.com/in/yourusername"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          {" "}
-          LinkedIn
-        </a>
       </p>
     </footer>
   );
