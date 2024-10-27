@@ -4,6 +4,7 @@ import weatherDashboardImage from "../../assets/weather-dashboard-image.png";
 import findMeDinnerImage from "../../assets/find-me-dinner-image.png";
 import readmeGeneratorImage from "../../assets/readme-generator-image.png";
 import employeeTrackerImage from "../../assets/employee-tracker-image.png";
+import "./Portfolio.css";
 
 const Portfolio = () => {
   return (

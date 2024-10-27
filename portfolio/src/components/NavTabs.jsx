@@ -4,7 +4,7 @@ function NavTabs() {
   const location = useLocation(); // Gets the current URL path
 
   return (
-    <ul className="nav nav-tabs">
+    <ul className="nav nav-tabs justify-content-center">
       <li className="nav-item">
         <Link
           to="/about"
