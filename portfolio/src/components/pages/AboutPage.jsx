@@ -3,7 +3,7 @@ import "./About.css";
 export default function About() {
   return (
     <div>
-      <h1>About Me</h1>
+      <h1 style={{ color: "#786F52" }}>About Me</h1>
       <p>
         My name is Luis and I am currently learning Web Development. Currently
         enrolled in a bootcamp that will teach me the skills and tools needed to

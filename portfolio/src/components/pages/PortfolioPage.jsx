@@ -9,7 +9,7 @@ import "./Portfolio.css";
 const Portfolio = () => {
   return (
     <div>
-      <h1>Portfolio</h1>
+      <h1 style={{ color: "#786F52" }}>Portfolio</h1>
       <div className="projects-container">
         <Project
           title="Vehicle Builder"

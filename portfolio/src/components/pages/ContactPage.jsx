@@ -30,7 +30,7 @@ export default function Contact() {
 
   return (
     <div>
-      <h1>Contact</h1>
+      <h1 style={{ color: "#786F52" }}>Contact</h1>
       <form onSubmit={handleSubmit}>
         <div>
           <label htmlFor="name">Name:</label>

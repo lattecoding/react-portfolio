@@ -4,13 +4,17 @@ function NavTabs() {
   const location = useLocation(); // Gets the current URL path
 
   return (
-    <ul className="nav nav-tabs justify-content-center">
+    <ul
+      className="nav nav-tabs justify-content-center"
+      style={{ backgroundColor: "#0D3B66" }}
+    >
       <li className="nav-item">
         <Link
           to="/about"
           className={
             location.pathname === "/about" ? "nav-link active" : "nav-link"
           }
+          style={{ color: "#786F52" }}
         >
           About
         </Link>
@@ -21,6 +25,7 @@ function NavTabs() {
           className={
             location.pathname === "/portfolio" ? "nav-link active" : "nav-link"
           }
+          style={{ color: "#786F52" }}
         >
           Portfolio
         </Link>
@@ -31,6 +36,7 @@ function NavTabs() {
           className={
             location.pathname === "/contact" ? "nav-link active" : "nav-link"
           }
+          style={{ color: "#786F52" }}
         >
           Contact
         </Link>
@@ -41,6 +47,7 @@ function NavTabs() {
           className={
             location.pathname === "/resume" ? "nav-link active" : "nav-link"
           }
+          style={{ color: "#786F52" }}
         >
           Resume
         </Link>
