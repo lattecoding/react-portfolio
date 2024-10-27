@@ -5,16 +5,20 @@ export default function About() {
     <div>
       <h1 style={{ color: "#786F52" }}>About Me</h1>
       <p>
-        My name is Luis and I am currently learning Web Development. Currently
-        enrolled in a bootcamp that will teach me the skills and tools needed to
-        learn front end and back end developement.
+        My name is Luis and I am a Web Developer. I'm from Connecitcut and
+        currently enrolled in a bootcamp, learning the skills and tools needed
+        to learn front end and back end developement.
       </p>
       <p>
-        After I have completed the bootcamp I plan on making a few small
+        After I have complete the bootcamp I plan on making a few small personal
         websites to build up my portfolio and showcase my skills. Two I have
-        planned is a personally landing page for all my projects and a personal
-        blog. Hopefully this all leads to a new career as a Full Stack
-        Developer.
+        planned is this landing page that showcases some of my projects and a
+        personal blog.
+      </p>
+      <p>
+        I'm looking to start a new career as a full stack developer. If you or
+        someone you know thinks I could be a good fit, fill out the contact form
+        to reach me!
       </p>
     </div>
   );
