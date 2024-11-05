@@ -1,8 +1,37 @@
-# React + Vite
+# react-portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+![MIT License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-Currently, two official plugins are available:
+## Table of Contents
+- [Description](#description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Tests](#tests)
+- [Questions](#questions)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Description
+A portfolio to display my web developing work. Made in React.
+
+## Installation
+Download the code from Github onto your local machine
+
+## Usage
+Once downloaded, open a terminal in the folder. Run 'npm install', then run 'npm start'
+
+## Contributing
+Submit any changes you'd like to see as a Pull Request via Github
+
+## Tests
+luis-react-portfolio.netlify.app
+
+## License
+
+This project is licensed under the MIT.
+[MIT License](https://opensource.org/licenses/MIT)
+
+## Questions
+If you have any questions, please feel free to reach out:
+
+- GitHub: [lattecoding](https://github.com/lattecoding)

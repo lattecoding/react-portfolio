@@ -12,6 +12,7 @@ export default function Resume() {
           padding: 0,
         }}
       >
+        {/* <li><a href="/resume.pdf" download> Resume</a></li> */}
         <li>HTML</li>
         <li>CSS</li>
         <li>Javascript</li>
