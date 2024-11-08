@@ -1,9 +1,11 @@
 import "./About.css";
+import avatar from "../../../images/latteLogo.webp";
 
 export default function About() {
   return (
     <div>
       <h1 style={{ color: "#786F52" }}>About Me</h1>
+      <img src={avatar} alt="avatar" />
       <p>
         My name is Luis and I am a Web Developer. I'm from Connecitcut and
         currently enrolled in a bootcamp, learning the skills and tools needed
