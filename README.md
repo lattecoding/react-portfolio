@@ -26,7 +26,7 @@ Once downloaded, open a terminal in the folder. Run 'npm install', then run 'npm
 Submit any changes you'd like to see as a Pull Request via Github
 
 ## Tests
-luis-react-portfolio.netlify.app
+https://luis-react-portfolio.netlify.app/
 
 ## License
 
