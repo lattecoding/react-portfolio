@@ -2,7 +2,6 @@ export default function Resume() {
   return (
     <div>
       <h1 style={{ color: "#786F52" }}>Resume</h1>
-      {/* insert ul lists with a mock up of my resume */}
       <p>Front End Skills</p>
       <ul
         style={{
@@ -12,7 +11,6 @@ export default function Resume() {
           padding: 0,
         }}
       >
-        {/* <li><a href="/resume.pdf" download> Resume</a></li> */}
         <li>HTML</li>
         <li>CSS</li>
         <li>Javascript</li>
@@ -30,6 +28,20 @@ export default function Resume() {
       >
         <li>Node.js</li>
         <li>SQL</li>
+      </ul>
+      <ul
+        style={{
+          color: "#786F52",
+          textAlign: "center",
+          listStyleType: "none",
+          padding: 0,
+        }}
+      >
+        <li>
+          <a href="../../assets/luis-mock-resume.pdf" download>
+            Download Resume
+          </a>
+        </li>
       </ul>
     </div>
   );
