@@ -4,6 +4,7 @@ import weatherDashboardImage from "../../assets/weather-dashboard-image.png";
 import findMeDinnerImage from "../../assets/find-me-dinner-image.png";
 import readmeGeneratorImage from "../../assets/readme-generator-image.png";
 import employeeTrackerImage from "../../assets/employee-tracker-image.png";
+import candidateSearchImage from "../../assets/candidate-search-image.png";
 import "./Portfolio.css";
 
 const Portfolio = () => {
@@ -40,6 +41,12 @@ const Portfolio = () => {
           image={employeeTrackerImage}
           deployedLink="https://drive.google.com/file/d/1mDKtOeZ9uhF1FwQdu86Xyvx72YbaFrRL/view?usp=drive_link"
           githubLink="https://github.com/lattecoding/employee-tracker"
+        />
+        <Project
+          title="Candidate Search"
+          image={candidateSearchImage}
+          deployedLink="https://candidate-search-paip.onrender.com/"
+          githubLink="https://github.com/lattecoding/candidate-search"
         />
       </div>
     </div>
