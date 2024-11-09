@@ -14,6 +14,8 @@
 ## Description
 A portfolio to display my web developing work. Made in React.
 
+![Portfolio Page](images/react-portfolio-image.png)
+
 ## Installation
 Download the code from Github onto your local machine
 
